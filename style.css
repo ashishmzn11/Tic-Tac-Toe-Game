@@ -26,6 +26,7 @@ body{
     height: 16vmin;
     width: 16vmin;
     font-size: 8vmin;
+    border-radius: 4vmin;
     
 }
 .btn2{
@@ -34,4 +35,13 @@ body{
     font-size: 2vmin;
     border-radius: 2vmin;
 
+}
+#reset-button{
+    margin-top: 4vmin;
+    font-size: 4vmin;
+    border-radius: 3vmin;
+    padding: .5vmin;
+    /* background-color: beige; */}
+.wel{
+    margin-top: 4vmin;
 }
